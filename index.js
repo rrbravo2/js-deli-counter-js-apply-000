@@ -1,7 +1,9 @@
 let katzDeli = [];
 
 function takeANumber (KatzDeli) {
-  KatzDeli.push(`${name}`);
+ var number = 1
+  KatzDeli.push(`${number}`);
+  number++
   return (`Welcome, ${name}. You are number ${KatzDeli.length} in line.`);
 }
 

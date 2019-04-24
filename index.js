@@ -1,5 +1,5 @@
 let katzDeli = [];
-
+var number = 1
 function takeANumber (KatzDeli) {
  
   KatzDeli.push(`${number}`);
